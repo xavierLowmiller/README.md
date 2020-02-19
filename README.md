@@ -31,6 +31,7 @@
 - Git
 - GitLab CI
 - GitHub Actions
+- fastlane
 
 ## Planned Features
 
@@ -58,3 +59,14 @@ For further documentation, [check out this writeup by Basecamp](https://basecamp
 - [All the books by Cal Newport](https://www.calnewport.com/#booksSec)
 - [Competing Against Luck](https://www.competingagainstluck.com)
 - [Peopleware](https://www.goodreads.com/book/show/67825.Peopleware)
+
+## Will negatively impact performance
+
+- "We've always done it this way"
+- Java
+- Enterprise Software
+- Microservice Architectures
+- In-person daily sync meetings
+- Apps that should be websites
+- Websites that should be apps
+- "This is too much logic for a client"
