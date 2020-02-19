@@ -69,6 +69,9 @@ For further documentation, [check out this writeup by Basecamp](https://basecamp
 - Mathematics
 - Functional Programming
 - Cool programming languages
+- Serverless Technologies
+- [Local-first Software](https://www.inkandswitch.com/local-first.html)
+- Fonts with Ligatures
 
 ### Other
 
@@ -91,3 +94,4 @@ For further documentation, [check out this writeup by Basecamp](https://basecamp
 - Apps that should be websites
 - Websites that should be apps
 - "This is too much logic for a client"
+- Bad (or missing) keyboard shortcuts
