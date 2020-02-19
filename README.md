@@ -50,3 +50,11 @@
   - If an answer can wait 3-5 minutes, message me in Slack, WhatsApp, ...
   - If an answer can wait several hours, send me a mail
 
+For further documentation, [check out this writeup by Basecamp](https://basecamp.com/guides/how-we-communicate).
+
+## Documentation
+
+- [All the books by Basecamp](https://basecamp.com/books)
+- [All the books by Cal Newport](https://www.calnewport.com/#booksSec)
+- [Competing Against Luck](https://www.competingagainstluck.com)
+- [Peopleware](https://www.goodreads.com/book/show/67825.Peopleware)
