@@ -60,6 +60,26 @@ For further documentation, [check out this writeup by Basecamp](https://basecamp
 - [Competing Against Luck](https://www.competingagainstluck.com)
 - [Peopleware](https://www.goodreads.com/book/show/67825.Peopleware)
 
+## Will positively impact performance
+
+### Technical
+
+- Green Checkmarks in unit tests
+- Mentoring
+- Mathematics
+- Functional Programming
+
+### Other
+
+- Meeting friends
+- Experiences, not things
+- Daily exercise
+- Travel
+- Doing meaningful work
+- Helping others with what I'm good at
+- Veg(etari)an Food
+- Good Drinks
+
 ## Will negatively impact performance
 
 - "We've always done it this way"
