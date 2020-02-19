@@ -68,6 +68,7 @@ For further documentation, [check out this writeup by Basecamp](https://basecamp
 - Mentoring
 - Mathematics
 - Functional Programming
+- Cool programming languages
 
 ### Other
 
@@ -83,8 +84,8 @@ For further documentation, [check out this writeup by Basecamp](https://basecamp
 ## Will negatively impact performance
 
 - "We've always done it this way"
-- Java
 - Enterprise Software
+- Uncool programming languages (esp. Java)
 - Microservice Architectures
 - In-person daily sync meetings
 - Apps that should be websites
