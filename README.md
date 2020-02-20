@@ -95,3 +95,4 @@ For further documentation, [check out this writeup by Basecamp](https://basecamp
 - Websites that should be apps
 - "This is too much logic for a client"
 - Bad (or missing) keyboard shortcuts
+- Sharing documents that aren't PDFs (but should be)
