@@ -59,7 +59,7 @@
 
 - Meeting friends
 - Experiences, not things
-- Daily exercise
+- [Daily exercise](https://xavierlowmiller.github.io/blog/2020/03/08/365-Days-of-Exercise)
 - Travel
 - Doing meaningful work
 - Helping others with what I'm good at
